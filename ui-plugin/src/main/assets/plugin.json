@@ -1,10 +1,10 @@
 {
   "id": "com.stupidtree.hita.ui.share",
   "name": "课表分享",
-  "version": "0.2.3",
+  "version": "0.2.4",
   "entryClass": "com.stupidtree.hita.ui.share.ShareUiPlugin",
-  "apiVersion": 7,
-  "composeVersion": "1.6.8",
+  "apiVersion": 11,
+  "composeVersion": "1.9.4",
   "capabilities": [
     "hita.ui.share"
   ],
