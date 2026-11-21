@@ -28,4 +28,7 @@ dependencies {
     compileOnly "androidx.compose.foundation:foundation:1.9.4"
     compileOnly "androidx.compose.material:material:1.9.4"
     compileOnly "com.google.code.gson:gson:2.8.9"
+    testImplementation 'junit:junit:4.13.2'
+    testImplementation 'io.github.kajimi16.ohmyhita:plugin-sdk:11'
+    testImplementation "androidx.compose.runtime:runtime:1.9.4"
 }
